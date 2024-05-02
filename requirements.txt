@@ -1,0 +1,3 @@
+twitchio
+openai
+python-dotenv
